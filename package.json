@@ -33,12 +33,12 @@
     "@eslint/js": "^10.0.1",
     "@types/react": "^19.2.18",
     "@types/react-dom": "^19.2.7",
-    "eslint": "^10.9.1",
+    "eslint": "^10.10.0",
     "eslint-plugin-astro": "^3.1.0",
     "globals": "^17.12.0",
     "i18n-unused": "^0.20.0",
-    "knip": "^6.34.0",
+    "knip": "^6.35.1",
     "purgecss": "^8.0.0",
-    "typescript-eslint": "^8.69.0"
+    "typescript-eslint": "^8.70.0"
   }
 }
