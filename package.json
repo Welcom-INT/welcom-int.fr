@@ -21,12 +21,12 @@
     "audit:css": "purgecss --css src/styles/global.css src/styles/tokens.css --content \"src/**/*.astro\" \"src/**/*.tsx\" \"src/**/*.ts\""
   },
   "dependencies": {
-    "@astrojs/check": "^0.9.10",
+    "@astrojs/check": "^0.9.12",
     "@astrojs/react": "^7.0.0",
     "@astrojs/sitemap": "^3.7.4",
     "astro": "^7.3.5",
-    "react": "^19.3.0",
-    "react-dom": "^19.3.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
     "typescript": "^6.0.3"
   },
   "devDependencies": {
