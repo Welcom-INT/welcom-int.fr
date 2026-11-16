@@ -218,7 +218,7 @@ export const zhTW: LocaleTranslation = {
       body: "我們的招牌之夜。同學們搭建展現自己國家色彩的攤位，烹飪傳統美食，並分享音樂、舞蹈與故事。在 {Global Village} 期間，來自世界各地的文化匯聚在學校的論壇（forum）。",
       photoAlt: "同學們在 Global Village 上展示各自的文化",
       photoCaption: "{Global Village}",
-      aftermovieTitle: "觀看 2024 年的活動回顧 🎬",
+      aftermovieTitle: "觀看 2025 年的活動回顧 🎬",
     },
     valentines: {
       title: "情人節派對",

@@ -218,7 +218,7 @@ export const de: LocaleTranslation = {
       body: "Unser Flaggschiff-Abend. Die Schüler bauen Stände in den Farben ihres Landes auf, kochen traditionelle Gerichte und tauschen Musik, Tanz und Geschichten aus. Kulturen aus der ganzen Welt versammeln sich während des {Global Village} beim Schulforum.",
       photoAlt: "Schüler feiern ihre Kulturen im Global Village",
       photoCaption: "{Global Village}",
-      aftermovieTitle: "Sehen Sie sich den Afterfilm 2024 an 🎬",
+      aftermovieTitle: "Sehen Sie sich den Afterfilm 2025 an 🎬",
     },
     valentines: {
       title: "Valentinstagsparty",

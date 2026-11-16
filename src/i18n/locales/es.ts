@@ -218,7 +218,7 @@ export const es: LocaleTranslation = {
       body: "Nuestra noche estrella. Los estudiantes montan stands con los colores de sus países, cocinan platos tradicionales y comparten música, baile e historias. Las culturas de todo el mundo se reúnen en el foro de la escuela durante el {Global Village}.",
       photoAlt: "Estudiantes celebrando sus culturas en el Global Village",
       photoCaption: "{Global Village}",
-      aftermovieTitle: "Mira el aftermovie de 2024 🎬",
+      aftermovieTitle: "Mira el aftermovie de 2025 🎬",
     },
     valentines: {
       title: "Fiesta de San Valentín",

@@ -218,7 +218,7 @@ export const ar: LocaleTranslation = {
       body: "أمسيتنا الأبرز. يقيم الطلاب أجنحة بألوان بلدانهم، ويطهون أطباقًا تقليدية، ويتشاركون الموسيقى والرقص والقصص. تجتمع ثقافات من جميع أنحاء العالم في منتدى المدرسة (forum) خلال فعالية الـ {Global Village}.",
       photoAlt: "طلاب يحتفون بثقافاتهم في Global Village",
       photoCaption: "{Global Village}",
-      aftermovieTitle: "شاهد فيديو 2024 🎬",
+      aftermovieTitle: "شاهد فيديو 2025 🎬",
     },
     valentines: {
       title: "حفل عيد الحب",

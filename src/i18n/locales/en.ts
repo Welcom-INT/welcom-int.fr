@@ -219,7 +219,7 @@ export const en = {
       body: "Our flagship evening. Students set up stands in the colors of their countries, cook traditional dishes, and share music, dance, and stories. Cultures from all over the world are gathered at the school forum during the {Global Village}.",
       photoAlt: "Students celebrating their cultures at the Global Village",
       photoCaption: "{Global Village}",
-      aftermovieTitle: "Watch the 2024 after movie 🎬",
+      aftermovieTitle: "Watch the 2025 after movie 🎬",
     },
     valentines: {
       title: "Valentine's party",

@@ -218,7 +218,7 @@ export const hi: LocaleTranslation = {
       body: "हमारी सबसे ख़ास शाम। छात्र अपने-अपने देशों के रंगों के स्टॉल लगाते हैं, पारंपरिक पकवान बनाते हैं और संगीत, नृत्य व कहानियाँ साझा करते हैं। {Global Village} के दौरान स्कूल के फ़ोरम (forum) में दुनिया भर की संस्कृतियाँ एक साथ आती हैं।",
       photoAlt: "Global Village में अपनी संस्कृतियों का जश्न मनाते छात्र",
       photoCaption: "{Global Village}",
-      aftermovieTitle: "2024 की आफ़्टरमूवी देखें 🎬",
+      aftermovieTitle: "2025 की आफ़्टरमूवी देखें 🎬",
     },
     valentines: {
       title: "वैलेंटाइन पार्टी",

@@ -218,7 +218,7 @@ export const ptBR: LocaleTranslation = {
       body: "Nossa noite mais especial. Os estudantes montam estandes com as cores de seus países, preparam pratos tradicionais e compartilham música, dança e histórias. Culturas de todo o mundo se reúnem no fórum da escola durante o {Global Village}.",
       photoAlt: "Estudantes celebrando suas culturas no Global Village",
       photoCaption: "{Global Village}",
-      aftermovieTitle: "Assista ao aftermovie de 2024 🎬",
+      aftermovieTitle: "Assista ao aftermovie de 2025 🎬",
     },
     valentines: {
       title: "Festa de Dia dos Namorados",

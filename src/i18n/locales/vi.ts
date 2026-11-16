@@ -218,7 +218,7 @@ export const vi: LocaleTranslation = {
       body: "Buổi tối đỉnh cao của chúng tôi. Sinh viên dựng các gian hàng mang màu sắc quốc gia của mình, nấu các món ăn truyền thống và chia sẻ âm nhạc, điệu nhảy cũng như những câu chuyện. Các nền văn hóa từ khắp nơi trên thế giới hội tụ tại diễn đàn của trường trong suốt thời gian diễn ra {Global Village}.",
       photoAlt: "Sinh viên tôn vinh văn hóa của mình tại Global Village",
       photoCaption: "{Global Village}",
-      aftermovieTitle: "Xem aftermovie 2024 🎬",
+      aftermovieTitle: "Xem aftermovie 2025 🎬",
     },
     valentines: {
       title: "Tiệc Valentine",
