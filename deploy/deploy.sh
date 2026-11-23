@@ -28,7 +28,7 @@ if [[ "${EUID}" -ne 0 ]]; then
   die "Run with sudo: sudo $0"
 fi
 
-command -v node  >/dev/null || die "node not found — install Node 18.20.8+/20.3+/22+"
+command -v node  >/dev/null || die "node not found — install Node 24.22.3+"
 command -v npm   >/dev/null || die "npm not found"
 command -v rsync >/dev/null || die "rsync not found — sudo apt install rsync"
 

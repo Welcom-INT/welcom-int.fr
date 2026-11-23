@@ -17,7 +17,7 @@ Built with [Astro](https://astro.build/), it is a static, multilingual guide to 
 
 ## Getting started
 
-The project uses Node.js **22.22.2** (see [`.nvmrc`](.nvmrc)) and npm 10 or later.
+The project uses Node.js **24.22.3** (see [`.nvmrc`](.nvmrc)) and npm 10 or later.
 
 ```bash
 nvm use
