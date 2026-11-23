@@ -21,24 +21,24 @@
     "audit:css": "purgecss --css src/styles/global.css src/styles/tokens.css --content \"src/**/*.astro\" \"src/**/*.tsx\" \"src/**/*.ts\""
   },
   "dependencies": {
-    "@astrojs/check": "^0.9.10",
-    "@astrojs/react": "^7.0.0",
-    "@astrojs/sitemap": "^3.7.4",
+    "@astrojs/check": "^0.9.12",
+    "@astrojs/react": "^7.1.9",
+    "@astrojs/sitemap": "^3.7.6",
     "astro": "^7.3.8",
-    "react": "^19.3.0",
-    "react-dom": "^19.3.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
     "typescript": "^6.0.3"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
     "@types/react": "^19.3.0",
     "@types/react-dom": "^19.3.0",
-    "eslint": "^10.11.0",
+    "eslint": "^10.15.0",
     "eslint-plugin-astro": "^3.2.1",
-    "globals": "^17.13.0",
+    "globals": "^17.14.0",
     "i18n-unused": "^0.21.0",
-    "knip": "^6.39.0",
-    "purgecss": "^8.0.0",
-    "typescript-eslint": "^8.71.0"
+    "knip": "^6.46.1",
+    "purgecss": "^9.1.0",
+    "typescript-eslint": "^8.73.0"
   }
 }
